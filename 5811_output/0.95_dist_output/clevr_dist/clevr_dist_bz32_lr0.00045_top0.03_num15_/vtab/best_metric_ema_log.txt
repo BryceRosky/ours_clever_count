@@ -1,0 +1,17 @@
+Epoch 0: Best Metric EMA = 28.313333337402344
+Epoch 2: Best Metric EMA = 31.033333333333335
+Epoch 3: Best Metric EMA = 31.880000002034507
+Epoch 4: Best Metric EMA = 44.05333333740234
+Epoch 5: Best Metric EMA = 49.653333337402344
+Epoch 6: Best Metric EMA = 52.71333333333333
+Epoch 7: Best Metric EMA = 59.12666667480469
+Epoch 9: Best Metric EMA = 59.86000000813802
+Epoch 10: Best Metric EMA = 60.48666667480469
+Epoch 11: Best Metric EMA = 60.62000000406901
+Epoch 0: Best Metric EMA = 24.213333333333335
+Epoch 2: Best Metric EMA = 36.98666667073568
+Epoch 3: Best Metric EMA = 41.81333333333333
+Epoch 4: Best Metric EMA = 57.753333341471354
+Epoch 6: Best Metric EMA = 59.44
+Epoch 7: Best Metric EMA = 61.14000000406901
+Epoch 10: Best Metric EMA = 61.673333341471356
